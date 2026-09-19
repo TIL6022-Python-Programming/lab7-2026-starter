@@ -1,8 +1,8 @@
 """
 Question 2: Geovisualization with Plotly Express (3 points in total)
 
-In this question, we are going to use plotly express to create a choropleth map 
-that shows the life expentancy of each country for the year 2007. The data 
+In this question, we are going to use Plotly Express to create a choropleth map 
+that shows the life expectancy of each country for the year 2007. The data 
 we are going to use is from plotly express gapminder.
 
 For the plot, please satisfy the following requirements:
@@ -10,7 +10,7 @@ For the plot, please satisfy the following requirements:
 - color scale: px.colors.sequential.Blues_r (1 point)
 - title: '2007 Life Expectancy' (1 point)
 
-*Hint:* Use locations='iso_alpha' setting to specify the geolocation information
+*Hint:* Use the locations='iso_alpha' setting to specify the geolocation information
 Related documentation: https://plotly.com/python/choropleth-maps/
 
 """
