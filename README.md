@@ -11,6 +11,7 @@ Each submission will trigger an autograding workflow to evaluate your answers. *
 
 > [!WARNING]
 > Do not change the test file (test_lab7_2026.py) and the names of the three question Python files.
+> For local testing, put the test file in the same folder as the question Python files.
 
 
 ## Lab Teaching Staff
