@@ -1,8 +1,8 @@
 """
 Question 1: 3D Plot with Matplotlib (3 points in total)
 
-For this excercise, you first create a 3D matplotlib figure with the (x, y, z) 
-data to satify following requirements:
+For this exercise, you create a 3D Matplotlib figure with the (x, y, z) 
+data to satisfy the following requirements:
     (1) generate two subplots that are put side by side (1 point)
     (2) 3D surface plot on the left, use the colormap 'viridis' (1 point)
     (3) 3D wireframe plot on the right, use the color 'blue' (1 point)
